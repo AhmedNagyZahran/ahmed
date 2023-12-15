@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 not to -a -m
 aaaaaaaaaaaa
 dev
 math
 
+=======
+not to -a -m
+>>>>>>> refs/remotes/origin/dev
